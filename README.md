@@ -6,6 +6,7 @@ Neuronal is an experimental framework for building and evolving biologically ins
 	-Evolves over generations using feedback-driven mutations, lineage tracking, and protective mechanisms to prevent catastrophic forgetting 
 	-Designed to explore how small networks can discover and specialize in rule-like behaviors (arithmetic, language, other media I/O) without relying on massive scale 
 	-Supports controlled ablation studies of routing, gating, composition, and protection strategies 
+	-Integrated Wheel Theory for handling of div/0 and infinite mathmatics (https://en.wikipedia.org/wiki/Wheel_theory)
 
 # Core Goals
 	-Understand the minimal conditions under which a tiny network can learn genuine cross-modal symbolic generalization. (Such as mathematically “perfect” neural nodes, that can be engineered and duplicated)
